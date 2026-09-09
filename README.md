@@ -16,7 +16,7 @@
 
 Мой вклад — развитие React-фронтенда, обработка сетевых ошибок и состояний интерфейса, исправления геометрии карты и поведения карточек правок. Также работал над CI и подготовкой проекта к открытой публикации.
 
-[Открыть демо](https://wiki-pulse.ru) · [Архитектура frontend](https://github.com/yt-wikipulse/wikipulse/blob/main/docs/architecture/frontend.md) · [Обновление данных карты](https://github.com/yt-wikipulse/wikipulse/blob/main/frontend/src/features/live-map/useLiveMapData.ts) · [Мои коммиты](https://github.com/yt-wikipulse/wikipulse/commits/main/?author=L1TTL3H0rSE)
+[Открыть демо](https://wiki-pulse.ru) · [Архитектура frontend](https://github.com/yt-wikipulse/wikipulse/blob/main/docs/architecture/frontend.md) · [Обновление данных карты](https://github.com/yt-wikipulse/wikipulse/blob/main/frontend/src/features/live-map/useLiveMapData.ts)
 
 Демостенд воспроизводит снимок реальных правок за 30 августа 2026 года.
 
